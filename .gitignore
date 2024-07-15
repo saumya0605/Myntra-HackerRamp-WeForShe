@@ -1,0 +1,27 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+MynStyle/node_modules
+/.pnp
+./MynStyle/pnp.js
+
+# testing
+MynStyle/coverage
+
+# production
+MynStyle/build
+
+# misc
+./MynStyle/DS_Store
+./MynStyle/env.local
+./MynStyle/env.development.local
+./MynStyle/env.test.local
+./MynStyle/env.production.local
+
+./MynStyle/yarn-debug.log*
+./MynStyle/npm-debug.log*
+./MynStyle/yarn-error.log*
+
+./MynStyle/backend/.flaskenv
+./MynStyle/backend/env
+./MynStyle/backend/__pycache__
