@@ -17,6 +17,7 @@ An AI-powered personal stylist providing personalized fashion advice and recomme
 
 **Link to Demo Videos and functionality of our mynStyle :** https://drive.google.com/file/d/1MGFczgt-4D0Nbblo4Iuf0_0NQmQM-kl6/view?usp=sharing
 
+##### **Dataset and other backend files :** https://drive.google.com/drive/folders/1-gQh1_REColJYxKR34cwufY73MuqqZBh?usp=drive_link
 
 ## Some of the Tech Stack Used:
 <img src="https://github.com/user-attachments/assets/54b79562-3fe1-4beb-a1cb-cce586e24983" width="50%" height="50%">
@@ -46,7 +47,7 @@ An AI-powered personal stylist providing personalized fashion advice and recomme
 
 - Enhanced Product Discovery: With vast inventories available online, users can often feel overwhelmed by the sheer number of choices. Recommendation systems streamline the shopping process by curating a selection of items that align with the user’s style, making it easier for them to discover new products and brands.
 
-### **Our recommendation sustem:**
+### **Our recommendation system:**
 ![img4](https://github.com/user-attachments/assets/4f90dc5f-d882-4cf7-bc77-bcf64bd1861f)
 
 
